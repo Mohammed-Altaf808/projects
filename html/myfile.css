@@ -1,0 +1,19 @@
+h1{
+    color: aqua;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body{
+    background-color: #439b85;
+    border: 7px solid rgb(150, 216, 112);
+    border-radius: 10ch;
+    border-bottom: 0;
+}
+p{
+    font-size: x-large;
+    color: blanchedalmond;
+    padding-bottom: 0%;
+    border: 4px dashed #434b85;
+    
+}
